@@ -6,8 +6,7 @@ var totalArquivoTipo2 = 0;
 
 window.onload = function init() {
 	leitorDeCSV.onload = leCSV;
-	leitorDeCSV2.onload = leCSV2;
-	
+	leitorDeCSV2.onload = leCSV2;	
 }
 
 function pegaCSV(inputFile) {
